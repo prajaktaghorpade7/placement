@@ -1,0 +1,44 @@
+body{
+	background: linear-gradient(white,teal);
+	margin-right: auto;	
+}
+#k1{
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	border: 3px solid black;
+}
+.nav{
+	width: 100%;
+	height: 10%;
+}
+
+ul{
+	 margin: 0px;
+	 padding: 0px;
+	 font-family: Arial;
+	 display: block;
+
+}  
+ul li{
+	float: left;
+	padding: 10px 45px;
+
+	height: 40px;
+	background-color: teal; 
+	opacity: .9;
+	line-height: 40px;
+
+	font-size: 20px;
+
+
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+ul li a:hover{
+	 color: #343a40;
+
+}

@@ -1,0 +1,29 @@
+body{
+	background: linear-gradient(white, teal);
+}
+h1{
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin: auto;
+	border: 3px black double;
+	width: 350px;
+	color: black;
+}
+h3{
+	font-size: 30px;
+	text-decoration: underline;
+}
+td{
+	padding: 1em;
+	font-size: 20px;
+	text-align: center;
+}
+h2{
+	color: black;
+	text-decoration: double underline;
+}
+.info{
+	padding-left: 2em;
+	font-size: 20px;
+	padding-bottom: 5em;
+}

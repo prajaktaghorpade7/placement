@@ -1,0 +1,23 @@
+body{
+	background:linear-gradient(white,teal); 
+}
+
+.r{
+  padding: 20px; 
+  width: 250px;
+  height: 200px;
+  border-radius: 25px;
+  border: 2px solid white;  
+}
+
+.edit{
+	background-color: gray;
+}
+
+.head{
+	text-align: center;
+	text-decoration-line: underline;
+}
+h4{
+	font-size:20;
+}

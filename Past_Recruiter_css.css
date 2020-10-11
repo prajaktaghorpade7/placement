@@ -1,0 +1,52 @@
+.html{
+	margin:auto;
+	padding-left: 1em;
+	padding-right: : 1em;
+}
+body{
+	background: linear-gradient(white, teal);
+	font-family: Tahoma, Geneva, serif;
+	color: white;
+}
+h1{
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin: auto;
+	font-family: Impact, Charcoal, serif;
+	border: 3px black double;
+	width: 500px;
+	color: black;
+}
+h2{
+	color: black;
+	font-size: 30px;
+	text-decoration: double underline;
+}
+h3{
+	text-align: center;
+	font-size: 25px;
+	background: white;
+	color: #007bff;
+}
+.box1{
+
+	color: black;
+	font-size: 20px;
+	margin-top: 2em;
+	padding-top: 1em;
+}
+.table, th, td{
+	font-size: 20px;
+	border: 2px solid black; 
+	text-align: center;
+	width: 300px;
+	height: 50px;
+}
+td:hover{
+	color: #007bff;
+	background-color: #f5f5f5;
+}
+.table1{
+	text-align: center;
+	font-size: 20px;
+}
